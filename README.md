@@ -1,6 +1,6 @@
 <div align="center">
 <details>
-    <summary><b>ගල් මූසලයා ඔබපිය මේක බොට් හදන්න ඕන්නම්</b></summary>
+    <summary><b>බොට් හදන්න මේක ඔබන්න යාළු</b></summary>
     
  
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+CHIRAN+BOT;THIS+BOT+OWNER+IS+CHIRAN+UVINDU)](https://git.io/typing-svg)
